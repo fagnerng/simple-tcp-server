@@ -1,0 +1,21 @@
+{
+  "name": "simple-tcp-server",
+  "version": "1.0.0",
+  "description": "Simple server/client tcp using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "client": "node client.js",
+    "server": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fagnerng/simple-tcp-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fagnerng/simple-tcp-server/issues"
+  },
+  "homepage": "https://github.com/fagnerng/simple-tcp-server#readme"
+}
